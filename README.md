@@ -1,1 +1,1 @@
-# Xeditor
+# Xeditor | QT
